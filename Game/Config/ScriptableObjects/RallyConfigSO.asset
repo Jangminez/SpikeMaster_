@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b182d5f4767fb4b4ebf0f14ad355bfab, type: 3}
+  m_Name: RallyConfigSO
+  m_EditorClassIdentifier: Assembly-CSharp::RallyConfigSO
+  _rallyInterval: 1
+  _courtMinX: -2.9
+  _courtMaxX: 2.9
+  _courtMinY: 0
+  _courtMaxY: 5.28
+  _serveSpeed: 5
+  _receiveSpeed: 3
+  _tossSpeed: 3
+  _attackSpeed: 10
+  _perfectMultiflier: 0.7
+  _goodMultiflier: 1
+  _badMultiflier: 1.3
+  _perfectRange: 0.05
+  _goodRange: 0.15
+  _badRange: 0.5
