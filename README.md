@@ -4,6 +4,11 @@
 구체적인 클래스 간의 결합도를 낮추고 모바일 환경 최적화를 달성하기 위해 추상화 아키텍처 및 런타임 캐싱을 도입하여 개발한 원터치 배구 게임입니다.
 
 ---
+## 플레이 영상
+
+https://github.com/user-attachments/assets/20be5b82-5254-4d6b-8efa-dbf5fc350a0f
+
+---
 
 ## 개발 환경 및 기술 스택
 * Engine: Unity 6.3 LTS
